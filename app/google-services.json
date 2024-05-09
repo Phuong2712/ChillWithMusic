@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055416444405",
+    "project_id": "listentomusic-e7e6c",
+    "storage_bucket": "listentomusic-e7e6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055416444405:android:dcd6e3594ceedfbdb26cbc",
+        "android_client_info": {
+          "package_name": "com.example.listentomusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV2w24_3486Eki2Umf3b2piUHH9yFjeU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
